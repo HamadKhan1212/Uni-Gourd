@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6699044425",
+    "project_id": "proctorial-board-uom",
+    "storage_bucket": "proctorial-board-uom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6699044425:android:4ea7494c22da2e03e23998",
+        "android_client_info": {
+          "package_name": "com.example.proctorialboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6699044425-4ohdvvsdquo4uo0dfvj7t06081o7hm5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Qg5cp8xPrY7ISYDmMYqd7xErzlnlb4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6699044425-4ohdvvsdquo4uo0dfvj7t06081o7hm5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
